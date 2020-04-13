@@ -7,6 +7,7 @@ in Hindi. Define another Dictionary that has a list of words in Hindi and their
 corresponding words in Urdu. Take all words from English Language and display their
 meaning in both the languages.
 d1={‘Teacher’:’Shikshak’, ‘Book’:’Pustak’,’Friend’:’Mitr’}
+
 d2={‘Shikshak’:’Adhyapak’,’Pustak’:’Kitab’,’Mitr’:’Dost’}
 Expected O/P:
 Teacher in Hindi means Shikshak and in Urdu means Adhaypak
